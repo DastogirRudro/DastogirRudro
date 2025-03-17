@@ -1,6 +1,6 @@
 ### Hi there 👋, Here is Golam Dastogir
 #### Full Stack Web Developer
-![Web Developer](https://i.ibb.co.com/tPcXhzqM/Whats-App-Image-2025-03-18-at-2-11-30-AM.jpg)
+
 🤵 
 I am a full stack web develper i have expertices on React node mongodb. I love building scalable web site and i improve my knowledge  and skills in modern framework.I have done so many project. I have experience about Restful Api and also experienced about RESTful APIs, authentication JWT/Firebase and also database management. I always learning and exploring new technologies. I had done my thesis on Machine learning and deep learning
 <h3 align="left">Languages and Tools:</h3>
